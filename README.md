@@ -1,19 +1,6 @@
-# 👋 Hi, I'm Maxedo Tenggara
+# Maxedo Tenggara
+## Architect and Civil Engineer
 
-### 🏛️ About Me
-I am a highly skilled professional specializing in **architecture and civil engineering** projects. With a keen eye for detail and a passion for innovative design, I am dedicated to transforming ideas into reality and making a meaningful impact in the field of engineering.
-
----
-
-### 🚀 What I Do
-* **Innovative Design:** Consistently delivering exceptional results with a strong focus on detail.
-* **Project Management:** Experienced in managing complex projects, ensuring each endeavor meets the highest standards of quality and efficiency.
-
----
-
-### 🛠️ Core Expertise
-* Architecture & Spatial Design
-* Civil Engineering & Structural Planning
-* Complex Project Management & Quality Control
-
-📬 **Connect with me:** [maxedo.vercel.app](https://maxedo.vercel.app)
+| Profile | Summary |
+| :--- | :--- |
+| I am a highly skilled professional specializing in architecture and civil engineering projects. With a keen eye for detail and a passion for innovative design, I consistently deliver exceptional results.<br><br>My experience in managing complex projects ensures that each endeavor meets the highest standards of quality and efficiency. I am dedicated to transforming ideas into reality, making a meaningful impact in the field of engineering. | **Focus:** Architecture & Civil Engineering<br><br>**Core Objective:** Transforming ideas into reality<br><br>**Website:** [maxedo.vercel.app](https://maxedo.vercel.app) |
