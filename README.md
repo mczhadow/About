@@ -1,1 +1,2 @@
 # About
+I am a highly skilled professional specializing in architecture and civil engineering projects. With a keen eye for detail and a passion for innovative design, I consistently deliver exceptional results. My experience in managing complex projects ensures that each endeavor meets the highest standards of quality and efficiency. I am dedicated to transforming ideas into reality, making a meaningful impact in the field of engineering.
